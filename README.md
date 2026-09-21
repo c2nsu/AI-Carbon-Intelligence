@@ -381,4 +381,4 @@ Bu nedenle proje bir karbon hesaplayıcının ötesinde; veri analizi, görselle
 
 **AI Sustainability / Data Analytics / Machine Learning / Streamlit**
 
-Bu proje akademik/proje çalışması kapsamında geliştirilmiştir.
+Bu proje akademik/grup proje çalışması kapsamında geliştirilmiştir. Streamlit kısmı bana aittir.
